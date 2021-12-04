@@ -1,0 +1,1 @@
+Sync vs. Async Method of obtaining text data. Used fs.readFile.
